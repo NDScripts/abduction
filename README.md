@@ -1,4 +1,4 @@
-# N&D Scriipts
+# N&D Scripts
 If you have problem open ticket
 
 # Links
