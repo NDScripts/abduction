@@ -1,5 +1,5 @@
 # N&D Scripts
-If you have problem open ticket
+If you have any problem open ticket
 
 # Links
 https://discord.gg/pfJAdSwpSD
