@@ -2,7 +2,7 @@
 If you have any problem open ticket
 
 # Links
-https://discord.gg/pfJAdSwpSD
+[Discord](https://discord.gg/mgSrvW2ZPz)
 
 https://nadscript.tebex.io/
 
